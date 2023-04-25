@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CoffeeCraft/static/css/main.146e8812.css",
+    "main.js": "/CoffeeCraft/static/js/main.6c1ae290.js",
+    "static/js/787.06476bf6.chunk.js": "/CoffeeCraft/static/js/787.06476bf6.chunk.js",
+    "static/media/2023-01-28_11.41.15.png": "/CoffeeCraft/static/media/2023-01-28_11.41.15.f2d80c6dd0abf10c60db.png",
+    "static/media/2023-01-25_16.20.14.png": "/CoffeeCraft/static/media/2023-01-25_16.20.14.78428747f18759d01ab5.png",
+    "static/media/MuficCoffee.png": "/CoffeeCraft/static/media/MuficCoffee.63044bae7a18df8548cb.png",
+    "index.html": "/CoffeeCraft/index.html",
+    "main.146e8812.css.map": "/CoffeeCraft/static/css/main.146e8812.css.map",
+    "main.6c1ae290.js.map": "/CoffeeCraft/static/js/main.6c1ae290.js.map",
+    "787.06476bf6.chunk.js.map": "/CoffeeCraft/static/js/787.06476bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146e8812.css",
+    "static/js/main.6c1ae290.js"
+  ]
+}
